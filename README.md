@@ -1,2 +1,2 @@
-# ELVIN7
- 
+Hardware: PIC24FJ64GA002
+IDE: Microchip MPLAB
